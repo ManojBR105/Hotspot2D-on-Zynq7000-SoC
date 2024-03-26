@@ -1,7 +1,3 @@
-
-We have included a file named hotspot.zip with our submission. The file has a specific folder structure as described below.
-
-
 1. Folder Hierarchy: DesignTree/Vitis Workspace/core0/src/
 
 This hierarchy contains files related to the core of the software part.
