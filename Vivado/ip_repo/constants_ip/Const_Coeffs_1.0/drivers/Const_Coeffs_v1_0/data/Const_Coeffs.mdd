@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER Const_Coeffs
+	OPTION supported_peripherals = (Const_Coeffs);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = Const_Coeffs;
+END DRIVER
